@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
+import QuickBall from './src/QuickBall';
 
-AppRegistry.registerComponent('quickball', () => App);
+AppRegistry.registerComponent('quickball', () => QuickBall);

@@ -32,7 +32,6 @@ import SimpleLineIconsIcons from 'react-native-vector-icons/SimpleLineIcons';
 const { width, height } = Dimensions.get('window');
 
 const iconSets = {
-    A: 'a',
     EntypoIcons: EntypoIcons,
     EvilIconsIcons: EvilIconsIcons,
     FeatherIcons: FeatherIcons,
